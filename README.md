@@ -1,5 +1,5 @@
 Program 1 Outputs
-![Screenshot](https://user-images.githubusercontent.com/123573986/218189244-aa31e803-a0cf-4a3d-97ff-44d833b1b142.png)
+![Screenshot](https://user-images.githubusercontent.com/123573986/218189485-8a22d360-2cd7-44a1-bdab-03320f791d3c.png)
 
 
 Program 2 Outputs
